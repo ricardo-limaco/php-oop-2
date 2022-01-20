@@ -1,0 +1,46 @@
+<?php
+$usersList = [
+    [
+        "firstName" => "John",
+        "lastName" => "Doe",
+        "email" => "john.doe@hotmail.com",
+        "address" => "Via roma 1, Torino, Italia",
+        "accountType" => "Standard",
+        "paymentMethod" => "PayPal",
+    ],
+    [
+        "firstName" => "Sara",
+        "lastName" => "Bianchi",
+        "email" => "sara.bianchi@hotmail.com",
+        "address" => "Via monginevro 14, Torino, Italia",
+        "accountType" => "Standard",
+        "paymentMethod" => "Mastercard",
+    ],
+    [
+        "firstName" => "Mario",
+        "lastName" => "Rossi",
+        "email" => "mario.rossi@hotmail.com",
+        "address" => "Corso trapani 120, Torino, Italia",
+        "accountType" => "Prime",
+        "primeNumber" => "2564783",
+        "paymentMethod" => "Visa",
+    ],
+    [
+        "firstName" => "Luigi",
+        "lastName" => "Esposito",
+        "email" => "luigi.esposito@hotmail.com",
+        "address" => "Corso sebastopoli 24, Torino, Italia",
+        "accountType" => "Prime",
+        "primeNumber" => "3245180",
+        "paymentMethod" => "Mastercard",
+    ],
+    [
+        "firstName" => "Francesco",
+        "lastName" => "De Luca",
+        "email" => "francesco.deluca@hotmail.com",
+        "address" => "Via dante 5, Torino, Italia",
+        "accountType" => "Prime",
+        "primeNumber" => "8889581",
+        "paymentMethod" => "Mastercard",
+    ],
+];
